@@ -36,7 +36,7 @@ function InputFieldsList({ fields, setFields }) {
             />
             {
               field.type === "nested" && (
-                <div className='ml-5 border w-fit border-gray-200 p-4 rounded'>
+                <div className='ml-5 border w-fit border-gray-200 p-4 rounded my-3'>
                   <InputFieldsList
                     fields={field.children}
                     setFields={(newChildren) => {
