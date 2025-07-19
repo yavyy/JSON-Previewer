@@ -10,3 +10,13 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+This is JSON-Previewer made in React.js, you can add fields and their type it will show the results in JSON formatted text also can nest fields.
+
+To run the project: 
+1. Download as zip or clone the project.
+2. Run command "cd ./HROne"
+3. Then run command "npm install or npm i", it will download all the necessary dependecntion to run this project.
+4. Run command "npm run dev"
+5. Hold Ctrl + left click on the link given in terminal after running the above command.
